@@ -1,0 +1,5 @@
+To make it advance -> 1. Can change style
+                      2. Border for table
+                      3. Start the ID number 1 for new month
+                      4. Add a functionality to track total amount spend in a month
+                      5 . Total amount spend category wise in a month
